@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71026292630",
+    "project_id": "doctorplant-674e6",
+    "storage_bucket": "doctorplant-674e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71026292630:android:64ce506d720f53f1390fb7",
+        "android_client_info": {
+          "package_name": "com.example.doctorplant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWE687KuOH1AOXnRp3hLYZhPyM72VKt6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

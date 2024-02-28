@@ -1,0 +1,88 @@
+Mango - Sooty Mould
+Mango - Powdery Mildew
+Mango - Healthy
+Mango - Gall Midge
+Mango - Die Back
+Mango - Cutting Weevil
+Mango - Bacterial Canker
+Mango - Anthracnose
+Corn - Blight
+Corn - Common_Rust
+Rice - Bacterial leaf blight
+Rice - Brown spot
+Rice - Leaf smut
+Tomato - Bacterial_spot
+Tomato - Early_blight
+Tomato - Healthy
+Tomato - Late_blight
+Tomato - Leaf_Mold
+Tomato - Septoria leaf spot
+Tomato - Spider mites Two-spotted spider mite
+Tomato - Tomato mosaic virus
+Tomato - Tomato Yellow Leaf Curl Virus
+Tomato - Target  Spot
+Guava - Disease Free
+Guava - Phytopthora
+Guava - Red rust
+Guava - Scab
+Guava - Styler and Root
+Eggplant - Healthy Leaf
+Eggplant  - Insect Pest Disease
+Eggplant - Leaf Spot Disease
+Eggplant - Mosaic Virus Disease
+Eggplant -  Small Leaf Disease
+Eggplant - White Mold Disease
+Eggplant - Wilt Disease
+Potato - Blackspot Bruising Disease
+Potato - Healthy
+Potato - Brown Rot Disease
+Potato - Dry Rot Disease
+Potato - Soft Rot Disease
+Banana - Black Sigatoka Disease
+Banana - Bract Mosaic Virus Disease
+Banana - Healthy Leaf
+Banana - Insect Pest Disease
+Banana - Moko Disease
+Banana - Panama Disease
+Broccoli - Healthy
+Strawberry - Healthy
+Strawberry - Leaf Scorch
+Cauliflower - Bacterial Spot Rot
+Cauliflower - Black Rot
+Cauliflower - Downy Mildew
+Grape - Healthy
+Grape - Black Rot
+Apple - Black Rot
+Apple - Healthy
+Apple - Scab
+Apple - Cedar Rust
+Blueberry - Healthy
+Raspberry - Healthy
+Cherry - Healthy
+Cherry - Powdery Mildew
+Cotton - Bacterial Blight
+Cotton - Curl Virus
+Cotton - Healthy
+Cotton - Fussarium Wilt
+Tea - Healthy
+Tea - Algal
+Tea - Antharacnose
+Tea - Bird Eye Spot
+Tea - Brown Blight
+Tea - Red Spot
+Wheat - Septoria
+Wheat - Yellow Rust
+Wheat - Brown Rust
+Wheat - Healthy
+Sugarcane - Healthy
+Sugarcane - Red Root
+Sugarcane - Red Stripe
+Sugarcane - Rust
+Lemon - Healthy
+Soyabean - Healthy
+Soyabean - Downly Mildew
+Soyabean - Mosaic Virus
+Soyabean - Powdery Mildew
+Soyabean - Rust
+Soyabean - Southern Blight
+Soyabean - Bacterial Blight
