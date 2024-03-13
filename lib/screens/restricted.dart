@@ -30,7 +30,7 @@ class RestrictedScreen extends StatelessWidget {
               child: Column(
                 children: [
                   Text('This Feature is locked by the developer !'),
-                  Text('Visit Stall Number 106 at LJ Innovation Village !'),
+                  Text('Make sure you follow Galorithm-21 on Github'),
                 ],
               ),
             )

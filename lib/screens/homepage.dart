@@ -1,4 +1,3 @@
-import 'package:doctorplant/screens/diseases/disease_main_root.dart';
 import 'package:doctorplant/screens/marketprices.dart';
 import 'package:doctorplant/screens/restricted.dart';
 import 'package:doctorplant/screens/weather.dart';
@@ -60,7 +59,7 @@ class _HomepageState extends State<Homepage> {
                     ),
                     Center(
                       // child: Image.network(
-                      //  
+                      //
                       //   scale: 15,
                       // ),
                       child: Image.asset(
@@ -440,11 +439,11 @@ class _HomepageState extends State<Homepage> {
                               color: const Color(0xffF3F360),
                               child: GestureDetector(
                                 onTap: () {
-                                  // Navigator.push(
-                                  //     context,
-                                  //     MaterialPageRoute(
-                                  //         builder: (context) =>
-                                  //             const WeatherScreen()));
+                                  Navigator.push(
+                                      context,
+                                      MaterialPageRoute(
+                                          builder: (context) =>
+                                              const WeatherScreen()));
                                   Navigator.push(
                                       context,
                                       MaterialPageRoute(

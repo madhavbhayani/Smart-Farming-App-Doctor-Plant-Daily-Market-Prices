@@ -48,3 +48,5 @@ OutlineInputBorder outlineInputBorder() {
     borderSide: const BorderSide(color: kTextColor),
   );
 }
+
+//MAKE FOLLOW GALORITHM-21 on github
