@@ -1,3 +1,9 @@
+THIS VERSION OF DOCTOR PLANT IS DEPRECATED AND NO LONGER IN SUPPORT
+VERSION 2 OF DOCTOR PLANT IS RELEASING SOON
+
+**This repository is just for the reference and history trace
+
+
 
 ![Logo](https://firebasestorage.googleapis.com/v0/b/doctorplant-smartfarming.appspot.com/o/logo.png?alt=media&token=ec48b0e2-8fa5-4b55-a463-4688eaf84e09)
 
